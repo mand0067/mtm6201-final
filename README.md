@@ -1,2 +1,2 @@
 # mtm6201-final
-The process was somewhat hard at first eventully it became a bit simple then the rest just came together with good help and focus and carfully detailed instrustions. Most challenges were just the spacifics. As for the profolio I chose something I felt would be simple.
+# The process was somewhat hard at first eventully it became a bit simple then the rest just came together with good help and focus and carfully detailed instrustions. Most challenges were just the spacifics. As for the profolio I chose something I felt would be simple.

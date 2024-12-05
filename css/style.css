@@ -72,6 +72,12 @@ a:link {
   a:active {
 	background-color: rgb(34, 20, 230);
   } 
+
+.container{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
 /*media queries*/
 h1{
 	font-size: 1.5em;
