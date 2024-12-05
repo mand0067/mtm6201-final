@@ -56,3 +56,33 @@ header{
 img{
 	width: 100%;
 }
+/*main buttons*/
+a:link {
+	background-color: rgb(4, 4, 4);
+  }
+  
+  a:visited {
+	background-color: rgb(25, 116, 227);
+  }
+  
+  a:hover {
+	background-color: rgba(248, 252, 248, 0.924);
+  }
+  
+  a:active {
+	background-color: rgb(34, 20, 230);
+  } 
+/*media queries*/
+h1{
+	font-size: 1.5em;
+  }
+  @media screen and (min-width: 600px){
+	h1{
+	  font-size: 2.5em;
+	}
+  }
+  @media screen and (min-width: 900px){
+	h1{
+	font-size: larger;
+	}
+  }
